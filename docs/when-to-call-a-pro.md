@@ -60,4 +60,4 @@ These require specialized tools, EPA certification, or risk personal injury:
 
 ---
 
-*Always verify contractor licensing before authorizing work. Florida law requires HVAC contractors to hold an active CAC license for any work involving refrigerant circuits, electrical connections, or gas lines.*
+*For reliable service in South Florida, [schedule a maintenance visit](https://ac-repair.today/services/ac-maintenance/) with a licensed professional. Always verify contractor licensing before authorizing work. Florida law requires HVAC contractors to hold an active CAC license for any work involving refrigerant circuits, electrical connections, or gas lines.*

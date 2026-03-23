@@ -78,7 +78,7 @@ Found an error or want to add a tip? Open a pull request. This guide is maintain
 
 ## About
 
-Created by [AC Repair Today](https://ac-repair.today) — licensed AC repair and installation in South Florida. We service Miami-Dade, Broward, and Palm Beach counties with same-day emergency service.
+Created by [AC Repair Today](https://ac-repair.today). For professional maintenance plans, visit our [AC maintenance services](https://ac-repair.today/services/ac-maintenance/) page — licensed AC repair and installation in South Florida. We service Miami-Dade, Broward, and Palm Beach counties with same-day emergency service.
 
 Florida License CAC1824118 | (305) 850-6810
 
