@@ -1,87 +1,74 @@
-# HVAC Maintenance Guide for South Florida Homeowners
+# HVAC Maintenance Guide
 
-A comprehensive, season-by-season guide to maintaining your air conditioning system in South Florida's subtropical climate. Built from years of field experience servicing AC systems across Miami-Dade, Broward, and Palm Beach counties.
+A comprehensive guide for homeowners to maintain their HVAC systems, troubleshoot common issues, and know when professional help is needed.
 
-South Florida's heat and humidity put extreme demands on HVAC systems. The average AC unit here runs 2,800+ hours per year — nearly double the national average. Without proper maintenance, systems fail sooner, run less efficiently, and cost significantly more to operate.
+## Why Maintenance Matters
 
-This guide covers everything a homeowner needs to know: seasonal maintenance checklists, common problems and their causes, energy-saving strategies, and when to call a professional.
+- **Energy Savings**: A well-maintained system uses 15-25% less energy
+- **Longevity**: Regular maintenance extends system life by 5-10 years
+- **Air Quality**: Clean filters and ducts mean healthier indoor air
+- **Cost Prevention**: $200/year in maintenance prevents $5,000+ emergency repairs
 
-## What's Inside
+## Seasonal Maintenance Checklist
 
-- **[Seasonal Checklists](docs/seasonal-checklists.md)** — Month-by-month maintenance tasks tailored to South Florida's climate
-- **[Common Problems](docs/common-problems.md)** — The most frequent AC issues we see and what causes them
-- **[Energy Efficiency](docs/energy-efficiency.md)** — How to cut your cooling costs by 20-40%
-- **[When to Call a Pro](docs/when-to-call-a-pro.md)** — DIY vs professional repairs: know the line
-- **[Hurricane Prep](docs/hurricane-prep.md)** — Protecting your HVAC system during storm season
-- **[System Sizing](docs/system-sizing.md)** — Why tonnage matters in South Florida homes
+### Spring (Before Cooling Season)
+- [ ] Replace air filter (or clean if reusable)
+- [ ] Clean outdoor condenser coils
+- [ ] Check refrigerant levels
+- [ ] Test thermostat calibration
+- [ ] Clear debris around outdoor unit (2ft clearance)
+- [ ] Schedule professional [AC maintenance tune-up](https://ac-repair.today/services/ac-maintenance/)
 
-## Quick Reference
+### Fall (Before Heating Season)
+- [ ] Replace air filter
+- [ ] Inspect heat exchanger for cracks
+- [ ] Test carbon monoxide detectors
+- [ ] Check ductwork for leaks
+- [ ] Clean condensate drain line
 
-### Monthly Tasks (5 minutes)
-- Check and replace air filter (1" filters monthly, 4" filters quarterly)
-- Clear debris from around outdoor condenser unit (maintain 2ft clearance)
-- Check thermostat batteries and settings
+## Troubleshooting Common Issues
 
-### Quarterly Tasks (30 minutes)
-- Clean condenser coils with garden hose
-- Inspect drain line and flush with vinegar solution
-- Check refrigerant line insulation for damage
+### AC Not Cooling
+1. Check thermostat settings (cool mode, correct temp)
+2. Replace dirty air filter
+3. Check circuit breaker
+4. Inspect outdoor unit for ice buildup
+5. If none work → [Call for AC repair](https://ac-repair.today/services/ac-repair/)
 
-### Annual Tasks (Professional recommended)
-- Full system inspection and tune-up
-- Refrigerant level check
-- Electrical connection testing
-- Duct inspection for leaks
+### Uneven Temperatures
+- Close vents in unused rooms
+- Check for duct leaks
+- Consider zone system installation
+- Ensure proper insulation
+- Professional [duct cleaning](https://ac-repair.today/services/duct-cleaning/) can restore airflow
 
-## South Florida-Specific Considerations
+### High Energy Bills
+- Old system? Consider [AC replacement](https://ac-repair.today/services/ac-replacement/) — modern units are 30-50% more efficient
+- Check duct insulation and sealing
+- Upgrade to a programmable thermostat
+- Schedule professional energy audit
 
-South Florida's climate creates unique challenges for HVAC systems:
+## When to Call a Professional
 
-- **Salt air corrosion** — Coastal properties within 5 miles of the ocean experience accelerated corrosion on condenser coils and electrical connections. Annual coil cleaning and corrosion-resistant coatings are essential.
-- **Humidity control** — Relative humidity regularly exceeds 80%. Your AC system is both a cooler and a dehumidifier. Oversized systems cool too quickly without removing enough moisture, leading to mold and comfort issues.
-- **Hurricane season (June-November)** — Outdoor units are vulnerable to debris and flooding. Know how to secure your system before a storm and how to safely restart it after.
-- **Year-round operation** — Unlike northern climates, South Florida AC systems rarely get a break. This means maintenance intervals are tighter and component wear is faster.
-- **Mold and mildew** — Warm, humid conditions in ductwork and drain pans create ideal environments for mold growth. Regular drain line maintenance is critical.
+**Emergency situations** requiring [immediate professional service](https://ac-repair.today/services/emergency-ac-repair/):
+- Gas smell near furnace (evacuate first, call gas company)
+- AC running but no cooling after basic troubleshooting
+- Unusual noises (grinding, banging, squealing)
+- Water leaking from indoor unit
+- System won't turn on at all
 
-## Checklists
+## Indoor Air Quality
 
-Printable checklists are in the [checklists/](checklists/) folder:
+Beyond temperature control, your HVAC system is your home's lungs. Learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and humidity control.
 
-- [Pre-Summer Checklist](checklists/pre-summer.md) (March-April)
-- [Hurricane Season Checklist](checklists/hurricane-season.md) (June)
-- [Post-Hurricane Checklist](checklists/post-hurricane.md)
-- [End of Year Maintenance](checklists/end-of-year.md) (November-December)
+## Smart Thermostat Guide
 
-## Troubleshooting
-
-Quick troubleshooting flowcharts for common problems:
-
-- [AC Not Cooling](troubleshooting/not-cooling.md)
-- [AC Running Constantly](troubleshooting/running-constantly.md)
-- [Water Leaking Inside](troubleshooting/water-leak.md)
-- [Strange Noises](troubleshooting/strange-noises.md)
-- [High Electric Bills](troubleshooting/high-bills.md)
-
-## Florida Regulations
-
-Florida requires HVAC contractors to hold a **CAC (Class A Air Conditioning)** or **CAC (Class B)** license issued by the Florida Department of Business and Professional Regulation (DBPR). Always verify your contractor's license at [myfloridalicense.com](https://www.myfloridalicense.com/).
-
-Key regulations:
-- **Permit requirements**: Most AC replacements and new installations require a building permit
-- **Minimum SEER ratings**: Florida energy code requires minimum 15 SEER for split systems
-- **Refrigerant handling**: Only EPA-certified technicians may handle refrigerants (Section 608)
-- **Duct sealing**: Florida Building Code requires tested and verified duct sealing on new installations
-
-## Contributing
-
-Found an error or want to add a tip? Open a pull request. This guide is maintained to help South Florida homeowners get the most from their cooling systems.
+Modern [thermostat installation](https://ac-repair.today/services/thermostat-installation/) can save 10-15% on energy bills with features like learning schedules, geofencing, and remote control.
 
 ## About
 
-Created by [AC Repair Today](https://ac-repair.today). For professional maintenance plans, visit our [AC maintenance services](https://ac-repair.today/services/ac-maintenance/) page — licensed AC repair and installation in South Florida. We service Miami-Dade, Broward, and Palm Beach counties with same-day emergency service.
+Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
 
-Florida License CAC1824118 | (305) 850-6810
+## License
 
----
-
-*This guide is provided for informational purposes. Always consult a licensed HVAC professional for repairs involving refrigerant, electrical work, or system modifications.*
+CC BY 4.0
