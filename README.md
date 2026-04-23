@@ -57,6 +57,11 @@ A comprehensive guide for homeowners to maintain their HVAC systems, troubleshoo
 - Water leaking from indoor unit
 - System won't turn on at all
 
+## Upgrade Decisions
+
+- [When to Replace Your AC System](docs/replacement-decision.md) — The 50% rule, age benchmarks, efficiency math, and rebate stacking for South Florida homeowners
+- [Choosing and Using a Thermostat](docs/thermostat-guide.md) — Manual vs programmable vs smart, optimal schedules for South Florida, installation tips, humidity control
+
 ## Indoor Air Quality
 
 Beyond temperature control, your HVAC system is your home's lungs. Learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and humidity control.
