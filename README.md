@@ -62,9 +62,14 @@ A comprehensive guide for homeowners to maintain their HVAC systems, troubleshoo
 - [When to Replace Your AC System](docs/replacement-decision.md) — The 50% rule, age benchmarks, efficiency math, and rebate stacking for South Florida homeowners
 - [Choosing and Using a Thermostat](docs/thermostat-guide.md) — Manual vs programmable vs smart, optimal schedules for South Florida, installation tips, humidity control
 
-## Indoor Air Quality
+## Humidity & Air Quality
 
-Beyond temperature control, your HVAC system is your home's lungs. Learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and humidity control.
+South Florida's humidity is a bigger comfort and health factor than most homeowners realize. Your AC system is your primary dehumidifier — learn how it works and when you need more:
+
+- [Humidity Control for South Florida Homes](docs/humidity-control.md) — Why your AC may not be dehumidifying enough, whole-house dehumidifiers, air sealing, and monitoring
+- [When and Why to Clean Your Air Ducts](docs/duct-cleaning-guide.md) — Signs your ducts need attention, what professional cleaning involves, costs, and how to choose a contractor
+
+Beyond dehumidification, learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and whole-home ventilation systems.
 
 ## Smart Thermostat Guide
 
