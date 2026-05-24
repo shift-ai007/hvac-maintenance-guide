@@ -12,3 +12,12 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.bak
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg

@@ -2,6 +2,16 @@
 
 A comprehensive guide for homeowners to maintain their HVAC systems, troubleshoot common issues, and know when professional help is needed.
 
+## Interactive Savings Calculator
+
+Before diving into the guides, check how much you could save with better maintenance:
+
+```bash
+python3 tools/savings-calculator.py
+```
+
+This interactive tool estimates annual and long-term savings based on your system age, current habits, and local South Florida energy costs. [Try it now](tools/savings-calculator.py) — no dependencies needed.
+
 ## Why Maintenance Matters
 
 - **Energy Savings**: A well-maintained system uses 15-25% less energy
