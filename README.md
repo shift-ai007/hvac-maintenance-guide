@@ -81,6 +81,12 @@ South Florida's humidity is a bigger comfort and health factor than most homeown
 
 Beyond dehumidification, learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and whole-home ventilation systems.
 
+## Coil Cleaning
+
+Your evaporator and condenser coils are the heart of your AC system. When they're dirty, nothing works right:
+
+- [Evaporator Coil Cleaning Guide](docs/evaporator-coil-cleaning.md) — How and when to clean the indoor coil, what to avoid, and when to call a pro. Essential reading for South Florida homeowners.
+
 ## Smart Thermostat Guide
 
 Modern [thermostat installation](https://ac-repair.today/services/thermostat-installation/) can save 10-15% on energy bills with features like learning schedules, geofencing, and remote control.
