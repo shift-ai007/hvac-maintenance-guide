@@ -82,11 +82,13 @@ South Florida's humidity is a bigger comfort and health factor than most homeown
 
 Beyond dehumidification, learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and whole-home ventilation systems.
 
-## Coil Cleaning
+## Coil Cleaning & Air Quality
 
 Your evaporator and condenser coils are the heart of your AC system. When they're dirty, nothing works right:
 
 - [Evaporator Coil Cleaning Guide](docs/evaporator-coil-cleaning.md) — How and when to clean the indoor coil, what to avoid, and when to call a pro. Essential reading for South Florida homeowners.
+- [Dirty Sock Syndrome](docs/dirty-sock-syndrome.md) — That musty smell from your vents has a name. Learn what causes it, which fixes actually work, and why bleach makes it worse.
+- [Condensate Drain Maintenance](docs/condensate-drain-maintenance.md) — The single most common AC service call in South Florida, explained. A $3 vinegar flush every 3 months can save you from a flooded ceiling.
 
 ## Smart Thermostat Guide
 
