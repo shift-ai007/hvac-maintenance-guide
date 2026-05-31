@@ -94,6 +94,14 @@ Your evaporator and condenser coils are the heart of your AC system. When they'r
 
 Modern [thermostat installation](https://ac-repair.today/services/thermostat-installation/) can save 10-15% on energy bills with features like learning schedules, geofencing, and remote control.
 
+## Outdoor Spaces & Special Structures
+
+South Florida homes often include unique spaces that standard HVAC guides don't cover. Two underserved areas:
+
+- **[AC for Pool Equipment Rooms](docs/pool-equipment-hvac.md)** — How salt air, heat, and humidity destroy your pool pump, control boards, and gas heater — and what to do about it. Ventilation requirements, condensate management, and coastal corrosion protection for pool house enclosures.
+
+- **[Outdoor Kitchen & Patio Cooling](docs/outdoor-kitchen-hvac.md)** — Mini-split installation, sizing, and operation tips for covered patios, lanais, and outdoor kitchens. Humidity management, placement considerations, and when mini-splits won't work.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
