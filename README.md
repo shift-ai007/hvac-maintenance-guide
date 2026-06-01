@@ -90,6 +90,10 @@ Your evaporator and condenser coils are the heart of your AC system. When they'r
 - [Dirty Sock Syndrome](docs/dirty-sock-syndrome.md) — That musty smell from your vents has a name. Learn what causes it, which fixes actually work, and why bleach makes it worse.
 - [Condensate Drain Maintenance](docs/condensate-drain-maintenance.md) — The single most common AC service call in South Florida, explained. A $3 vinegar flush every 3 months can save you from a flooded ceiling.
 
+## Summer Energy Savings Guide
+
+New for 2026: A dedicated [summer energy savings guide](docs/summer-energy-savings-guide.md) for South Florida homeowners. Covers coil cleaning, duct sealing, thermostat optimization, and refrigerant checks — five proven ways to cut cooling costs by 20-40% without replacing your unit.
+
 ## Smart Thermostat Guide
 
 Modern [thermostat installation](https://ac-repair.today/services/thermostat-installation/) can save 10-15% on energy bills with features like learning schedules, geofencing, and remote control.
