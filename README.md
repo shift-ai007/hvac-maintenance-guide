@@ -82,6 +82,8 @@ South Florida's humidity is a bigger comfort and health factor than most homeown
 
 Beyond dehumidification, learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and whole-home ventilation systems.
 
+- **[The AC Filter: Your First Line of Defense](docs/ac-filter-iaq-efficiency-guide.md)** — MERV ratings explained for South Florida, the optimal filter change schedule for our climate, and how the right filter can save $200-500/year in prevented service calls and reduced energy waste.
+
 ## Coil Cleaning & Air Quality
 
 Your evaporator and condenser coils are the heart of your AC system. When they're dirty, nothing works right:
