@@ -106,6 +106,14 @@ South Florida homes often include unique spaces that standard HVAC guides don't 
 
 - **[Outdoor Kitchen & Patio Cooling](docs/outdoor-kitchen-hvac.md)** — Mini-split installation, sizing, and operation tips for covered patios, lanais, and outdoor kitchens. Humidity management, placement considerations, and when mini-splits won't work.
 
+## Compressor Care & Airflow Performance
+
+Two aspects of HVAC maintenance that homeowners often overlook:
+
+- **[Airflow Balancing Guide](docs/airflow-balancing.md)** — How to diagnose and fix hot and cold spots throughout your home. Covers hand tests, temperature splits, return air paths, and when to call a pro. Essential reading for South Florida's open-plan and closed-bedroom layouts.
+
+- **[AC Compressor Maintenance](docs/ac-compressor-maintenance.md)** — Salt air, thunderstorms, and heat stress make South Florida uniquely hard on compressors. Learn the five maintenance practices that can extend compressor life from 10 years to 18+ years, plus early warning signs of trouble and what to do about them.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
