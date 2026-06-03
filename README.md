@@ -108,6 +108,12 @@ South Florida homes often include unique spaces that standard HVAC guides don't 
 
 - **[Outdoor Kitchen & Patio Cooling](docs/outdoor-kitchen-hvac.md)** — Mini-split installation, sizing, and operation tips for covered patios, lanais, and outdoor kitchens. Humidity management, placement considerations, and when mini-splits won't work.
 
+## Refrigerant Awareness
+
+Every AC system operates on a sealed refrigerant loop. Knowing how it works — and spotting problems early — can save your compressor and thousands in repair costs.
+
+- **[Refrigerant: What Homeowners Should Know](docs/refrigerant-maintenance-safety.md)** — How refrigerant works, leak signs, refrigerant types timeline, when the economics favor replacement, and the five maintenance habits that protect your system's sealed loop. Essential reading before calling a technician.
+
 ## Compressor Care & Airflow Performance
 
 Two aspects of HVAC maintenance that homeowners often overlook:
