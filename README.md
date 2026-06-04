@@ -71,6 +71,7 @@ This interactive tool estimates annual and long-term savings based on your syste
 
 - [When to Replace Your AC System](docs/replacement-decision.md) — The 50% rule, age benchmarks, efficiency math, and rebate stacking for South Florida homeowners
 - [Choosing and Using a Thermostat](docs/thermostat-guide.md) — Manual vs programmable vs smart, optimal schedules for South Florida, installation tips, humidity control
+- [Heat Pump Guide for South Florida](docs/heat-pump-guide.md) — Can a heat pump work in our climate? Energy savings, configurations, specs to look for, and tax credits. A practical guide for homeowners considering the switch.
 
 ## Humidity & Air Quality
 
