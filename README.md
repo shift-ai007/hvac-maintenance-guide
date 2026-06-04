@@ -122,6 +122,12 @@ Two aspects of HVAC maintenance that homeowners often overlook:
 
 - **[AC Compressor Maintenance](docs/ac-compressor-maintenance.md)** — Salt air, thunderstorms, and heat stress make South Florida uniquely hard on compressors. Learn the five maintenance practices that can extend compressor life from 10 years to 18+ years, plus early warning signs of trouble and what to do about them.
 
+## Frozen Coils & Emergency Issues
+
+Ice on your evaporator coil is one of the most common — and most misunderstood — AC problems in South Florida. Catching it early can save your compressor.
+
+- **[Frozen Evaporator Coil Guide](docs/frozen-evaporator-coil.md)** — Why coils freeze in 95°F weather, how to tell airflow problems from refrigerant leaks, emergency thawing steps, and the $5 monthly fix that prevents 90% of freeze-related service calls. Essential reading before calling for [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/).
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
