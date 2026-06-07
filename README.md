@@ -129,6 +129,14 @@ Ice on your evaporator coil is one of the most common — and most misunderstood
 
 - **[Frozen Evaporator Coil Guide](docs/frozen-evaporator-coil.md)** — Why coils freeze in 95°F weather, how to tell airflow problems from refrigerant leaks, emergency thawing steps, and the $5 monthly fix that prevents 90% of freeze-related service calls. Essential reading before calling for [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/).
 
+## Electrical Protection
+
+South Florida's thunderstorm season means every AC system is at risk from voltage surges and lightning damage — a risk many homeowners don't consider until it's too late:
+
+- **[AC Surge Protection & Lightning Damage Guide](docs/ac-surge-protection.md)** — How surges damage your AC's contactor, control board, capacitor, and compressor; whole-home vs point-of-use protection; early warning signs of surge damage; what to do after a near strike; and how to navigate insurance claims. Essential reading before hurricane season.
+
+For professional diagnosis and [AC repair](https://ac-repair.today/services/ac-repair/) after storm damage, our licensed technicians serve all of South Florida.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
