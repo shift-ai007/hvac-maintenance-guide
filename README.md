@@ -129,6 +129,12 @@ Ice on your evaporator coil is one of the most common — and most misunderstood
 
 - **[Frozen Evaporator Coil Guide](docs/frozen-evaporator-coil.md)** — Why coils freeze in 95°F weather, how to tell airflow problems from refrigerant leaks, emergency thawing steps, and the $5 monthly fix that prevents 90% of freeze-related service calls. Essential reading before calling for [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/).
 
+## Short Cycling — Why Your AC Runs in Bursts
+
+If your AC turns on and off every few minutes, it's short cycling — and it's damaging your compressor and wasting energy. South Florida's combination of oversized systems, humidity, and salt air makes this one of the most common problems in our region.
+
+- **[AC Short Cycling Guide](docs/ac-short-cycling.md)** — The three causes of short cycling, how to diagnose which one you have, and when it's a DIY fix vs a call for professional [AC repair](https://ac-repair.today/services/ac-repair/). Includes a diagnostic flowchart and prevention checklist.
+
 ## Electrical Protection
 
 South Florida's thunderstorm season means every AC system is at risk from voltage surges and lightning damage — a risk many homeowners don't consider until it's too late:
