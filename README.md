@@ -143,6 +143,14 @@ South Florida's thunderstorm season means every AC system is at risk from voltag
 
 For professional diagnosis and [AC repair](https://ac-repair.today/services/ac-repair/) after storm damage, our licensed technicians serve all of South Florida.
 
+## Thermostat Calibration & Sensor Placement
+
+Your thermostat is the brain of your HVAC system — but in South Florida's humid climate, sensor drift and poor placement can silently increase your energy bill by 15-30%. An uncalibrated thermostat that reads 2°F low keeps your compressor running an extra 30-60 minutes per cycle.
+
+- **[Thermostat Calibration & Sensor Placement Guide](docs/thermostat-calibration-sensor-placement.md)** — How to verify your thermostat reads true, the 5-foot placement rule, where NOT to put a sensor (sunlight, supply vents, above electronics), seasonal calibration checklist for Florida homes, and when a professional relocation is the real fix.
+
+For professional [AC maintenance](https://ac-repair.today/services/ac-maintenance/) and thermostat installation, our licensed technicians can optimize your entire system.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
