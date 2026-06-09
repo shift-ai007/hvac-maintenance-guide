@@ -151,6 +151,14 @@ Your thermostat is the brain of your HVAC system — but in South Florida's humi
 
 For professional [AC maintenance](https://ac-repair.today/services/ac-maintenance/) and thermostat installation, our licensed technicians can optimize your entire system.
 
+## Hurricane Season Preparedness
+
+June marks the start of Atlantic hurricane season, and your AC system is one of the most exposed parts of your home. A few hours of prep can save your compressor and keep you cool through recovery.
+
+- **[Post-Hurricane AC Recovery Guide](docs/post-hurricane-recovery.md)** — The systematic restart sequence after a storm, generator compatibility, flood damage warning signs, and a preparation checklist for next season. Essential reading for every South Florida homeowner.
+
+For storm-related [emergency AC repair in South Florida](https://ac-repair.today/services/emergency-ac-repair/), our team provides same-day service after major weather events.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
