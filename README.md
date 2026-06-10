@@ -98,6 +98,7 @@ Your evaporator and condenser coils are the heart of your AC system. When they'r
 New for 2026: A dedicated [summer energy savings guide](docs/summer-energy-savings-guide.md) for South Florida homeowners. Covers coil cleaning, duct sealing, thermostat optimization, and refrigerant checks — five proven ways to cut cooling costs by 20-40% without replacing your unit.
 
 ## Smart Thermostat Guide
+>For a deeper technical breakdown of peak-summer efficiency strategies — including duct leakage remediation targets, thermostat setback curves, solar heat gain coefficients, and ceiling fan integration specs — see the [advanced summer energy savings reference](docs/summer-energy-savings-guide-advanced.md).
 
 Modern [thermostat installation](https://ac-repair.today/services/thermostat-installation/) can save 10-15% on energy bills with features like learning schedules, geofencing, and remote control. For a deep dive on maximizing savings during our hottest months, see our new **[Smart Thermostat Strategies for Summer Energy Savings](docs/smart-thermostat-summer-strategies.md)** — covers peak-hour scheduling, fan circulation hacks, location-based schedules, and humidity management for South Florida's unique climate.
 
