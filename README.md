@@ -143,6 +143,12 @@ South Florida's thunderstorm season means every AC system is at risk from voltag
 
 For professional diagnosis and [AC repair](https://ac-repair.today/services/ac-repair/) after storm damage, our licensed technicians serve all of South Florida.
 
+## Duct Insulation Guide
+
+Your duct system carries cooled air through some of the hottest spaces in your home — unconditioned attics that can reach 140°F on a South Florida summer afternoon. Poorly insulated ducts waste 20-30% of your cooling energy and can cause condensation, mold, and ceiling stains.
+
+- **[Duct Insulation Guide for South Florida](docs/duct-insulation-guide.md)** — R-value recommendations for our climate, condensation prevention, material comparisons (fiberglass vs foam vs spray), cost vs savings analysis, and how to check whether your current insulation is adequate. Essential reading before summer.
+
 ## Thermostat Calibration & Sensor Placement
 
 Your thermostat is the brain of your HVAC system — but in South Florida's humid climate, sensor drift and poor placement can silently increase your energy bill by 15-30%. An uncalibrated thermostat that reads 2°F low keeps your compressor running an extra 30-60 minutes per cycle.
