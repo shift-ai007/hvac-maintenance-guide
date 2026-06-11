@@ -144,6 +144,14 @@ South Florida's thunderstorm season means every AC system is at risk from voltag
 
 For professional diagnosis and [AC repair](https://ac-repair.today/services/ac-repair/) after storm damage, our licensed technicians serve all of South Florida.
 
+## Coastal Corrosion Prevention
+
+If you live within 5 miles of a South Florida coastline, salt air is silently damaging your AC system every day — and most homeowners don't realize it until a coil fails or a compressor locks up in the middle of summer.
+
+- **[Coastal Corrosion Prevention Guide](docs/coastal-corrosion-prevention.md)** — How salt air destroys outdoor units, which components fail first (condenser coils, electrical terminals, fasteners), and four prevention strategies ranging from monthly hose rinses to factory-coated coils. Includes a quarterly inspection checklist and when replacement beats continued repair.
+
+For a professional assessment of corrosion damage in Miami-Dade or Broward, our licensed [AC repair technicians](https://ac-repair.today/services/ac-repair/) can evaluate whether a coil cleaning, coating, or replacement is the right call.
+
 ## Duct Insulation Guide
 
 Your duct system carries cooled air through some of the hottest spaces in your home — unconditioned attics that can reach 140°F on a South Florida summer afternoon. Poorly insulated ducts waste 20-30% of your cooling energy and can cause condensation, mold, and ceiling stains.
