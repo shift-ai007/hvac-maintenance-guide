@@ -174,6 +174,14 @@ June marks the start of Atlantic hurricane season, and your AC system is one of 
 
 For storm-related [emergency AC repair in South Florida](https://ac-repair.today/services/emergency-ac-repair/), our team provides same-day service after major weather events.
 
+## Ductless Mini-Split Maintenance
+
+Mini-splits are everywhere in South Florida — garages, additions, sunrooms, ADUs, and condos where ductwork can't go. They're efficient and quiet, but the indoor head pulls humid air across a cold coil all day, making it a magnet for biofilm, mold, and that musty "dirty sock" smell if it isn't cleaned properly.
+
+- **[Ductless Mini-Split Maintenance Guide](docs/ductless-mini-split-maintenance.md)** — The monthly homeowner routine (filters, louvers, condensate), why the blower wheel needs an annual professional bib wash, coastal corrosion and condensate concerns unique to our climate, and the warning signs that mean it's time to call a pro. Includes a quick-reference maintenance schedule.
+
+For professional mini-split cleaning, charge verification, and repair, our licensed [AC maintenance](https://ac-repair.today/services/ac-maintenance/) technicians service ductless systems alongside central AC across Miami-Dade, Broward, and Palm Beach.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
