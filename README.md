@@ -182,6 +182,14 @@ Mini-splits are everywhere in South Florida — garages, additions, sunrooms, AD
 
 For professional mini-split cleaning, charge verification, and repair, our licensed [AC maintenance](https://ac-repair.today/services/ac-maintenance/) technicians service ductless systems alongside central AC across Miami-Dade, Broward, and Palm Beach.
 
+## UV Germicidal Light Maintenance
+
+UV-C germicidal lamps are a popular indoor-air-quality upgrade in our humid climate, but they fail silently — a lamp keeps glowing a faint blue long after it has stopped emitting the wavelength that actually kills mold and bacteria. Most coil lamps drop below useful output in about a year of continuous South Florida runtime.
+
+- **[UV Germicidal Light Maintenance Guide](docs/uv-germicidal-light-maintenance.md)** — How UV-C lamps work, why a glowing lamp isn't necessarily a working lamp, the annual replacement routine, why our climate shortens lamp life, and the warning signs that the germicidal protection has lapsed. Includes a quick-reference schedule.
+
+For a professional indoor-air-quality assessment, lamp replacement, and coil cleaning, our licensed [indoor air quality](https://ac-repair.today/services/indoor-air-quality/) technicians service Miami-Dade, Broward, and Palm Beach.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
