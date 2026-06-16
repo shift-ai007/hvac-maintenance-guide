@@ -190,6 +190,14 @@ UV-C germicidal lamps are a popular indoor-air-quality upgrade in our humid clim
 
 For a professional indoor-air-quality assessment, lamp replacement, and coil cleaning, our licensed [indoor air quality](https://ac-repair.today/services/indoor-air-quality/) technicians service Miami-Dade, Broward, and Palm Beach.
 
+## Return Air & Static Pressure
+
+The air your system delivers gets all the attention, but the air it has to pull *back in* is just as important. Undersized or restricted return air is one of the most overlooked causes of weak airflow, uneven cooling, and high bills in South Florida homes.
+
+- **[Return Air & Static Pressure Guide](docs/return-air-and-static-pressure.md)** — What static pressure is and why most homes run too high, the local factors that starve returns (oversized equipment, dense filters, closed doors, crushed flex duct), the warning signs you can spot without tools, simple fixes you can try, and where the professional line is. Includes a quick-reference table.
+
+For a system that whistles, freezes, or never quite cools evenly, our technicians measure static pressure as part of routine [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) across Miami-Dade, Broward, and Palm Beach.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
