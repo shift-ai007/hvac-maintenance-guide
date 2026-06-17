@@ -204,6 +204,12 @@ Everyone changes the filter; almost no one cleans the blower wheel behind it. In
 
 - **[Cleaning the Indoor Blower Wheel](docs/blower-wheel-cleaning.md)** — What the wheel does, the signs it's fouled, how it gets cleaned properly (and why high pressure ruins it), and when to bundle it into a tune-up. Catching this early is exactly what [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) is for.
 
+## Refrigerant Lineset Insulation
+
+That black foam on the copper line running into your house has one job: keep the cold suction line cold. In the South Florida sun it cracks, bleaches, and crumbles years early — then your system loses capacity and the bare pipe sweats into the wall.
+
+- **[Refrigerant Lineset Insulation Maintenance](docs/lineset-insulation-maintenance.md)** — What the insulation does, how to spot UV failure without tools, why our climate destroys foam early, the simple re-insulation fix (and the UV-protection step everyone skips), and when corrosion means it's a repair job. A quick check that belongs in every [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) routine.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
