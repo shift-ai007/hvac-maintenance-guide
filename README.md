@@ -198,6 +198,12 @@ The air your system delivers gets all the attention, but the air it has to pull 
 
 For a system that whistles, freezes, or never quite cools evenly, our technicians measure static pressure as part of routine [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) across Miami-Dade, Broward, and Palm Beach.
 
+## Blower Wheel Cleaning
+
+Everyone changes the filter; almost no one cleans the blower wheel behind it. In humid climates that squirrel-cage fan cakes with dust and biofilm, quietly choking your airflow and raising your bill.
+
+- **[Cleaning the Indoor Blower Wheel](docs/blower-wheel-cleaning.md)** — What the wheel does, the signs it's fouled, how it gets cleaned properly (and why high pressure ruins it), and when to bundle it into a tune-up. Catching this early is exactly what [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) is for.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
