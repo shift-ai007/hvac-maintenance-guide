@@ -81,6 +81,8 @@ South Florida's humidity is a bigger comfort and health factor than most homeown
 - [When and Why to Clean Your Air Ducts](docs/duct-cleaning-guide.md) — Signs your ducts need attention, what professional cleaning involves, costs, and how to choose a contractor
 - [Mold Prevention in HVAC Systems](docs/mold-prevention-guide.md) — How mold forms in your AC, where it hides, and practical prevention steps every South Florida homeowner should take
 
+- **[Whole-House Dehumidifier Integration Guide](docs/whole-house-dehumidifier-guide.md)** — When a standalone dehumidifier makes sense over portables, how it integrates with your ductwork, sizing for South Florida homes, and the monthly maintenance that keeps it working. Includes installation best practices for our humid climate.
+
 Beyond dehumidification, learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and whole-home ventilation systems.
 
 - **[The AC Filter: Your First Line of Defense](docs/ac-filter-iaq-efficiency-guide.md)** — MERV ratings explained for South Florida, the optimal filter change schedule for our climate, and how the right filter can save $200-500/year in prevented service calls and reduced energy waste.
