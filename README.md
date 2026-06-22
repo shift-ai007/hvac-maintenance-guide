@@ -212,6 +212,12 @@ That black foam on the copper line running into your house has one job: keep the
 
 - **[Refrigerant Lineset Insulation Maintenance](docs/lineset-insulation-maintenance.md)** — What the insulation does, how to spot UV failure without tools, why our climate destroys foam early, the simple re-insulation fix (and the UV-protection step everyone skips), and when corrosion means it's a repair job. A quick check that belongs in every [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) routine.
 
+## Attic Ventilation & Cooling Performance
+
+Your attic isn't just storage space — it's the single biggest factor in how hard your AC has to work. An unventilated South Florida attic can hit 150°F, cooking your ductwork and adding 20-30% to your cooling load.
+
+- **[Attic Ventilation and Your AC](docs/attic-ventilation-cooling.md)** — How a hot attic fights your air conditioner, the two types of attic ventilation (passive vs. powered), the insulation levels that actually make a difference in our climate, and when poor attic performance explains why your AC can't keep up despite regular maintenance.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
