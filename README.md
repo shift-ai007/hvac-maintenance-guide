@@ -95,6 +95,12 @@ Your evaporator and condenser coils are the heart of your AC system. When they'r
 - [Dirty Sock Syndrome](docs/dirty-sock-syndrome.md) — That musty smell from your vents has a name. Learn what causes it, which fixes actually work, and why bleach makes it worse.
 - [Condensate Drain Maintenance](docs/condensate-drain-maintenance.md) — The single most common AC service call in South Florida, explained. A $3 vinegar flush every 3 months can save you from a flooded ceiling.
 
+## Summer Peak Load Management
+
+Before the energy savings guide, consider this: most breakdowns happen not because the system is worn out, but because it enters summer with a small pre-existing issue that becomes a failure under peak load. Understanding the physics of why systems fail in June is the first step to preventing it.
+
+- **[Peak Summer Load Management](docs/summer-peak-load-management.md)** — Why your AC struggles when temperatures hit 94°F, the three failure modes that emerge in June (capacitor degradation, airflow restriction feedback loops, marginal refrigerant charge), and the three-tier response framework that separates a working summer from an emergency-call summer. Includes measurable diagnostics homeowners can use before calling for [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/).
+
 ## Summer Energy Savings Guide
 
 New for 2026: A dedicated [summer energy savings guide](docs/summer-energy-savings-guide.md) for South Florida homeowners. Covers coil cleaning, duct sealing, thermostat optimization, and refrigerant checks — five proven ways to cut cooling costs by 20-40% without replacing your unit.
