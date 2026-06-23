@@ -198,6 +198,14 @@ UV-C germicidal lamps are a popular indoor-air-quality upgrade in our humid clim
 
 For a professional indoor-air-quality assessment, lamp replacement, and coil cleaning, our licensed [indoor air quality](https://ac-repair.today/services/indoor-air-quality/) technicians service Miami-Dade, Broward, and Palm Beach.
 
+## Indoor Air Handler Maintenance
+
+Your air handler — the indoor unit containing the evaporator coil, blower, and drain pan — runs every time your AC does. In South Florida's humid climate, it works harder than in any other region, making regular attention essential for reliable cooling.
+
+- **[Indoor Air Handler Maintenance Guide](docs/air-handler-maintenance.md)** — What's inside your air handler (evaporator coil, blower motor, condensate drain pan, emergency float switch), the monthly maintenance checklist that prevents the most common emergency calls, how to spot the warning signs of a failing air handler before it leaves you without AC, and when a professional inspection is the right move. Essential reading before summer hits.
+
+For professional [AC maintenance](https://ac-repair.today/services/ac-maintenance/) that includes a full air handler inspection — blower evaluation, drain line clearing, coil check, and safety controls verification — our licensed technicians serve all of South Florida.
+
 ## Return Air & Static Pressure
 
 The air your system delivers gets all the attention, but the air it has to pull *back in* is just as important. Undersized or restricted return air is one of the most overlooked causes of weak airflow, uneven cooling, and high bills in South Florida homes.
