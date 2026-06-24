@@ -110,6 +110,12 @@ New for 2026: A dedicated [summer energy savings guide](docs/summer-energy-savin
 
 Modern [thermostat installation](https://ac-repair.today/services/thermostat-installation/) can save 10-15% on energy bills with features like learning schedules, geofencing, and remote control. For a deep dive on maximizing savings during our hottest months, see our new **[Smart Thermostat Strategies for Summer Energy Savings](docs/smart-thermostat-summer-strategies.md)** — covers peak-hour scheduling, fan circulation hacks, location-based schedules, and humidity management for South Florida's unique climate.
 
+### Thermostat Wiring & Installation
+
+About to swap out your old thermostat? Before you pull that faceplate, understand what those colored wires actually do and why the C-wire keeps causing headaches. Whether you're installing a basic programmable unit or a Wi-Fi smart thermostat, the wiring fundamentals are the same.
+
+- **[Thermostat Wiring & Installation Basics](docs/thermostat-wiring-and-installation-basics.md)** — Complete wire color reference for South Florida systems (heat pump, straight cool, two-stage), step-by-step installation instructions, C-wire solutions, communicating system gotchas, and troubleshooting common installation issues. Written for homeowners who want to get it right the first time.
+
 ## Outdoor Spaces & Special Structures
 
 South Florida homes often include unique spaces that standard HVAC guides don't cover. Two underserved areas:
