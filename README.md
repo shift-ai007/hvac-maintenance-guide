@@ -83,6 +83,8 @@ South Florida's humidity is a bigger comfort and health factor than most homeown
 
 - **[Whole-House Dehumidifier Integration Guide](docs/whole-house-dehumidifier-guide.md)** — When a standalone dehumidifier makes sense over portables, how it integrates with your ductwork, sizing for South Florida homes, and the monthly maintenance that keeps it working. Includes installation best practices for our humid climate.
 
+- **[Summer Indoor Air Quality Guide](docs/summer-indoor-air-quality-guide.md)** — A complete walkthrough of why IAQ drops during South Florida summers specifically: the interaction of humidity, closed-house conditions, continuous AC runtime, pollen, and VOCs. Includes a decision framework for identifying the right fix, a summer-specific maintenance calendar, and guidance on when professional help is needed.
+
 Beyond dehumidification, learn about [indoor air quality solutions](https://ac-repair.today/services/indoor-air-quality/) including UV purifiers, HEPA filtration, and whole-home ventilation systems.
 
 - **[The AC Filter: Your First Line of Defense](docs/ac-filter-iaq-efficiency-guide.md)** — MERV ratings explained for South Florida, the optimal filter change schedule for our climate, and how the right filter can save $200-500/year in prevented service calls and reduced energy waste.
