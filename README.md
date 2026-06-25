@@ -103,6 +103,12 @@ Before the energy savings guide, consider this: most breakdowns happen not becau
 
 - **[Peak Summer Load Management](docs/summer-peak-load-management.md)** — Why your AC struggles when temperatures hit 94°F, the three failure modes that emerge in June (capacitor degradation, airflow restriction feedback loops, marginal refrigerant charge), and the three-tier response framework that separates a working summer from an emergency-call summer. Includes measurable diagnostics homeowners can use before calling for [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/).
 
+## Whole-Home Cooling Strategy
+
+Your AC doesn't work alone. Coordinating ceiling fans, window coverings, and thermostat programming can cut cooling costs by 20-35% while improving comfort.
+
+- **[Whole-Home Cooling Strategy Guide](docs/whole-home-cooling-strategy.md)** — Combines four phases: window management (solar screens, reflective film, cellular shades), ceiling fan sizing and scheduling, smart thermostat coordination, and passive measures (attic radiant barriers, insulation, exterior shading). Includes room-by-room guidance and expected combined savings. For [professional AC maintenance and whole-home assessments](https://ac-repair.today/services/ac-maintenance/), our licensed technicians serve all of South Florida.
+
 ## Summer Energy Savings Guide
 
 New for 2026: A dedicated [summer energy savings guide](docs/summer-energy-savings-guide.md) for South Florida homeowners. Covers coil cleaning, duct sealing, thermostat optimization, and refrigerant checks — five proven ways to cut cooling costs by 20-40% without replacing your unit.
