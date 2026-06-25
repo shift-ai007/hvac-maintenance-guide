@@ -160,6 +160,12 @@ South Florida's thunderstorm season means every AC system is at risk from voltag
 
 For professional diagnosis and [AC repair](https://ac-repair.today/services/ac-repair/) after storm damage, our licensed technicians serve all of South Florida.
 
+## Electrical Contactors & Starting Components
+
+The electrical contactor and run/start capacitors are the most common point of failure in South Florida AC systems — the combination of heat, humidity, and salt air accelerates corrosion and pitting on these components faster than in any other climate in the country. An annual inspection can prevent the most common "AC won't start" emergency.
+
+- **[AC Contactor & Start Components Maintenance Guide](docs/ac-contactor-start-components.md)** — How the contactor, run capacitor, start capacitor, and potential relay work; visual inspection checklists (pitting, bulging, corrosion); lifespan estimates for coastal vs inland homes; safe DIY visual checks vs what requires a licensed [AC repair](https://ac-repair.today/services/ac-repair/) technician; and surge protection recommendations for Florida's thunderstorm-prone grid. Essential pre-summer reading for every South Florida homeowner.
+
 ## Coastal Corrosion Prevention
 
 If you live within 5 miles of a South Florida coastline, salt air is silently damaging your AC system every day — and most homeowners don't realize it until a coil fails or a compressor locks up in the middle of summer.
