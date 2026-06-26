@@ -246,6 +246,12 @@ That black foam on the copper line running into your house has one job: keep the
 
 - **[Refrigerant Lineset Insulation Maintenance](docs/lineset-insulation-maintenance.md)** — What the insulation does, how to spot UV failure without tools, why our climate destroys foam early, the simple re-insulation fix (and the UV-protection step everyone skips), and when corrosion means it's a repair job. A quick check that belongs in every [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) routine.
 
+## Fresh Air Intake & ERV/HRV Maintenance
+
+As South Florida homes get tighter and more energy-efficient, mechanical fresh-air ventilation — Energy Recovery Ventilators (ERVs) and Heat Recovery Ventilators (HRVs) — is becoming a standard upgrade. These systems bring filtered outdoor air in while recovering the cool you've already paid for, but they are not maintenance-free.
+
+- **[Fresh Air Intake & ERV/HRV Maintenance](docs/fresh-air-intake-erv-hrv-maintenance.md)** — ERV vs HRV for South Florida's humid climate, the quarterly filter schedule and core cleaning steps that keep ventilation effective, the condensate drain that clogs just like your AC's, and when a failing ERV quietly stops ventilating while the fan keeps running. Includes signs that your unit needs a professional inspection.
+
 ## Attic Ventilation & Cooling Performance
 
 Your attic isn't just storage space — it's the single biggest factor in how hard your AC has to work. An unventilated South Florida attic can hit 150°F, cooking your ductwork and adding 20-30% to your cooling load.
