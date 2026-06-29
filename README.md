@@ -186,6 +186,8 @@ Your duct system carries cooled air through some of the hottest spaces in your h
 
 - **[Duct Insulation Guide for South Florida](docs/duct-insulation-guide.md)** — R-value recommendations for our climate, condensation prevention, material comparisons (fiberglass vs foam vs spray), cost vs savings analysis, and how to check whether your current insulation is adequate. Essential reading before summer.
 
+- **[Complete Ductwork Maintenance Guide](docs/hvac-ductwork-maintenance-guide.md)** — The full picture: how to inspect accessible ductwork for leaks, condensation, and pest damage, DIY leak detection methods (smoke test, pressure test, tissue test), when sealing is DIY vs pro, and a seasonal maintenance schedule. Written for South Florida homes where ducts run through 140°F attics and humid crawlspaces. [Professional duct inspection available](https://ac-repair.today/services/duct-cleaning/).
+
 ## Thermostat Calibration & Sensor Placement
 
 Your thermostat is the brain of your HVAC system — but in South Florida's humid climate, sensor drift and poor placement can silently increase your energy bill by 15-30%. An uncalibrated thermostat that reads 2°F low keeps your compressor running an extra 30-60 minutes per cycle.
