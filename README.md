@@ -201,6 +201,7 @@ For professional [AC maintenance](https://ac-repair.today/services/ac-maintenanc
 June marks the start of Atlantic hurricane season, and your AC system is one of the most exposed parts of your home. A few hours of prep can save your compressor and keep you cool through recovery.
 
 - **[Post-Hurricane AC Recovery Guide](docs/post-hurricane-recovery.md)** — The systematic restart sequence after a storm, generator compatibility, flood damage warning signs, and a preparation checklist for next season. Essential reading for every South Florida homeowner.
+- **[Post-Hurricane Indoor Air Quality Guide](docs/post-hurricane-iaq-guide.md)** — The quiet threat after every storm: how elevated humidity, mold growth in water-damaged materials, and demolition particulates degrade your indoor air. Practical steps for drying, filtration, and knowing when to call a pro for [duct cleaning and IAQ assessment](https://ac-repair.today/services/duct-cleaning/).
 
 For storm-related [emergency AC repair in South Florida](https://ac-repair.today/services/emergency-ac-repair/), our team provides same-day service after major weather events.
 
