@@ -261,6 +261,18 @@ Your attic isn't just storage space — it's the single biggest factor in how ha
 
 - **[Attic Ventilation and Your AC](docs/attic-ventilation-cooling.md)** — How a hot attic fights your air conditioner, the two types of attic ventilation (passive vs. powered), the insulation levels that actually make a difference in our climate, and when poor attic performance explains why your AC can't keep up despite regular maintenance.
 
+## Summer Power Outage AC Protection
+
+South Florida's severe thunderstorm and hurricane season brings frequent power outages that can silently damage AC compressors, capacitors, and control boards. Most homeowners don't realize their system is at risk until it's too late.
+
+- **[Summer Power Outage AC Protection Guide](docs/summer-power-outage-ac-protection.md)** — What happens to your AC when the power goes out (voltage spikes on restore, short cycling from unequalized refrigerant pressures, brownout compressor overheating), the $200–400 whole-home surge protector fix that prevents most post-storm failures, the critical 5-minute wait rule before restarting your system, a symptom-to-likely-cause table for post-outage AC problems, and when "it was working fine before the storm" means an [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) is needed.
+
+## Humidity Setpoint Optimization
+
+Most South Florida homeowners think about temperature when setting their thermostat, but humidity is the more important variable for comfort and efficiency from June through September.
+
+- **[Humidity Setpoint Optimization Guide](docs/humidity-setpoint-optimization-summer.md)** — Why 76°F at 48% RH feels more comfortable than 74°F at 60% RH, the optimal summer setpoint strategy for our climate, how Fan AUTO vs ON changes indoor moisture by 5–10 percentage points, the "overcool to dehumidify" smart-thermostat feature that works brilliantly in South Florida, and when oversized equipment means no thermostat setting can fix the humidity problem. Includes [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) tips for verifying your system is performing both sensible and latent cooling correctly.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
