@@ -102,6 +102,7 @@ Your evaporator and condenser coils are the heart of your AC system. When they'r
 Before the energy savings guide, consider this: most breakdowns happen not because the system is worn out, but because it enters summer with a small pre-existing issue that becomes a failure under peak load. Understanding the physics of why systems fail in June is the first step to preventing it.
 
 - **[Peak Summer Load Management](docs/summer-peak-load-management.md)** — Why your AC struggles when temperatures hit 94°F, the three failure modes that emerge in June (capacitor degradation, airflow restriction feedback loops, marginal refrigerant charge), and the three-tier response framework that separates a working summer from an emergency-call summer. Includes measurable diagnostics homeowners can use before calling for [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/).
+- **[Summer Peak Performance Diagnostics](docs/summer-peak-performance-diagnostics.md)** — The measurable metrics that reveal your AC's true health during peak cooling season: temperature split (delta T), static pressure, compressor amp draw, and visual coil/line inspections. Includes a diagnostic quick-reference table and specific red-flag thresholds that indicate a system needs [professional attention](https://ac-repair.today/services/emergency-ac-repair/) before it fails. Written for homeowners who want data, not guesses.
 
 ## Whole-Home Cooling Strategy
 
