@@ -274,6 +274,18 @@ Most South Florida homeowners think about temperature when setting their thermos
 
 - **[Humidity Setpoint Optimization Guide](docs/humidity-setpoint-optimization-summer.md)** — Why 76°F at 48% RH feels more comfortable than 74°F at 60% RH, the optimal summer setpoint strategy for our climate, how Fan AUTO vs ON changes indoor moisture by 5–10 percentage points, the "overcool to dehumidify" smart-thermostat feature that works brilliantly in South Florida, and when oversized equipment means no thermostat setting can fix the humidity problem. Includes [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) tips for verifying your system is performing both sensible and latent cooling correctly.
 
+## Pet Owner's Guide to HVAC Maintenance
+
+Pets and South Florida's year-round cooling season create unique maintenance demands. The combination of pet dander, fur, and high humidity loads filters 2-3× faster than standard recommendations assume, and pet-related drain blockages are among the most common preventable service calls in our region.
+
+- **[Pet Owner's Guide to HVAC Maintenance](docs/pet-owner-hvac-maintenance.md)** — How pet dander and fur accelerate filter loading in South Florida homes, the biofilm that forms on evaporator coils from dander + condensate moisture, condensate drain blockages from pet hair, why pets left alone during peak heat days are at risk if the AC fails, outdoor unit corrosion from pet traffic, and a maintenance schedule tailored to pet households.
+
+## Outdoor Unit Landscaping & Clearance
+
+South Florida's fast-growing tropical vegetation is one of the most common — and most overlooked — causes of premature AC failure. A hedge that provides proper clearance in March will be pressing against the condenser cabinet by June.
+
+- **[Outdoor Unit Landscaping & Clearance Guide](docs/outdoor-unit-landscaping-clearance.md)** — The manufacturer clearance minimums and why South Florida's climate demands more, plants to avoid near the condenser and safe alternatives, the seasonal pre-hurricane and post-storm inspection checklist, how restricted airflow silently damages compressors over years, and when chronic high head pressure from vegetation encroachment requires an [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/).
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
