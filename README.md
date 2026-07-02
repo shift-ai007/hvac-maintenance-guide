@@ -286,6 +286,12 @@ South Florida's fast-growing tropical vegetation is one of the most common — a
 
 - **[Outdoor Unit Landscaping & Clearance Guide](docs/outdoor-unit-landscaping-clearance.md)** — The manufacturer clearance minimums and why South Florida's climate demands more, plants to avoid near the condenser and safe alternatives, the seasonal pre-hurricane and post-storm inspection checklist, how restricted airflow silently damages compressors over years, and when chronic high head pressure from vegetation encroachment requires an [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/).
 
+## AC Noise & Vibration Diagnosis
+
+South Florida's year-round cooling season means AC components wear 2–3× faster than in northern climates. Knowing which sounds signal trouble and which are normal can prevent small issues from becoming expensive emergency repairs.
+
+- **[AC Noise & Vibration Diagnosis Guide](docs/ac-noise-vibration-diagnosis.md)** — What each common AC sound means (buzzing contactor, squealing fan bearings, rattling panels, hissing refrigerant, gurgling drains), the monthly 60-second listening walk that catches problems early, a symptom-to-action reference table, and when a sound you've never heard before means it's time to call for [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/). Includes practical checks you can do yourself and guidance on when an [AC maintenance visit](https://ac-repair.today/services/ac-maintenance/) is the most cost-effective fix.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
