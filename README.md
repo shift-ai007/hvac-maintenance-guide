@@ -293,6 +293,12 @@ South Florida's year-round cooling season means AC components wear 2–3× faste
 
 - **[AC Noise & Vibration Diagnosis Guide](docs/ac-noise-vibration-diagnosis.md)** — What each common AC sound means (buzzing contactor, squealing fan bearings, rattling panels, hissing refrigerant, gurgling drains), the monthly 60-second listening walk that catches problems early, a symptom-to-action reference table, and when a sound you've never heard before means it's time to call for [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/). Includes practical checks you can do yourself and guidance on when an [AC maintenance visit](https://ac-repair.today/services/ac-maintenance/) is the most cost-effective fix.
 
+## AC Warranty Guide for Florida Homeowners
+
+Understanding your AC warranty can save you thousands — but Florida's coastal environment, registration requirements, and maintenance stipulations create pitfalls that catch most homeowners off guard. Many manufacturers reduce 10-year warranties to 5 years if the system isn't registered within 60 days, and salt-air corrosion is often explicitly excluded from coverage.
+
+- **[AC Warranty Guide for Florida](docs/ac-warranty-guide-florida.md)** — The full breakdown of manufacturer equipment warranties, installer labor warranties, and extended service plans; how coastal corrosion voids coverage and what to do about it; registration deadlines for every major brand; the maintenance documentation you need to keep claims valid; and a decision framework for when to file a warranty claim versus when to replace. Includes practical tips on transferring warranties when buying a home.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
