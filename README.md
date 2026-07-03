@@ -108,7 +108,8 @@ Before the energy savings guide, consider this: most breakdowns happen not becau
 
 Your AC doesn't work alone. Coordinating ceiling fans, window coverings, and thermostat programming can cut cooling costs by 20-35% while improving comfort.
 
-- **[Whole-Home Cooling Strategy Guide](docs/whole-home-cooling-strategy.md)** — Combines four phases: window management (solar screens, reflective film, cellular shades), ceiling fan sizing and scheduling, smart thermostat coordination, and passive measures (attic radiant barriers, insulation, exterior shading). Includes room-by-room guidance and expected combined savings. For [professional AC maintenance and whole-home assessments](https://ac-repair.today/services/ac-maintenance/), our licensed technicians serve all of South Florida.
+- **[Whole-Home Cooling Strategy Guide](docs/whole-home-cooling-strategy.md)** — Combines four phases
+- **[Whole-House HVAC Zoning Maintenance Guide](docs/whole-house-hvac-zoning-maintenance.md)** — How zoned systems work, monthly/quarterly damper checks, bypass duct testing, zone panel diagnostics, condensation prevention in humid climates, and energy-saving day/night scheduling strategies for South Florida homes. Includes when to call a [professional AC maintenance](https://ac-repair.today/services/ac-maintenance/) technician for static pressure balancing and limit switch calibration.: window management (solar screens, reflective film, cellular shades), ceiling fan sizing and scheduling, smart thermostat coordination, and passive measures (attic radiant barriers, insulation, exterior shading). Includes room-by-room guidance and expected combined savings. For [professional AC maintenance and whole-home assessments](https://ac-repair.today/services/ac-maintenance/), our licensed technicians serve all of South Florida.
 
 ## Summer Energy Savings Guide
 
