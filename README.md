@@ -126,6 +126,7 @@ Modern [thermostat installation](https://ac-repair.today/services/thermostat-ins
 About to swap out your old thermostat? Before you pull that faceplate, understand what those colored wires actually do and why the C-wire keeps causing headaches. Whether you're installing a basic programmable unit or a Wi-Fi smart thermostat, the wiring fundamentals are the same.
 
 - **[Thermostat Wiring & Installation Basics](docs/thermostat-wiring-and-installation-basics.md)** — Complete wire color reference for South Florida systems (heat pump, straight cool, two-stage), step-by-step installation instructions, C-wire solutions, communicating system gotchas, and troubleshooting common installation issues. Written for homeowners who want to get it right the first time.
+- **[Smart Thermostat Installation Compatibility Guide](docs/smart-thermostat-installation-compatibility.md)** — Compatibility checks (system type, C-wire, voltage), wiring diagrams with South Florida-specific gotchas (salt-air corrosion, 4-conductor wire, heat pump reversing valves), coastal installation considerations, and when a professional [thermostat installation service](https://ac-repair.today/services/thermostat-installation/) is the smarter choice.
 
 ## Outdoor Spaces & Special Structures
 
