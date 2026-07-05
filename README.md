@@ -82,6 +82,7 @@ South Florida's humidity is a bigger comfort and health factor than most homeown
 - [Mold Prevention in HVAC Systems](docs/mold-prevention-guide.md) — How mold forms in your AC, where it hides, and practical prevention steps every South Florida homeowner should take
 
 - **[Whole-House Dehumidifier Integration Guide](docs/whole-house-dehumidifier-guide.md)** — When a standalone dehumidifier makes sense over portables, how it integrates with your ductwork, sizing for South Florida homes, and the monthly maintenance that keeps it working. Includes installation best practices for our humid climate.
+- **[Whole-House Dehumidifier Maintenance Guide](docs/whole-house-dehumidifier-maintenance.md)** — Keeping your dehumidifier running efficiently year-round: monthly/seasonal/annual maintenance tasks, coil and drain cleaning, humidistat testing, corrosion checks, and troubleshooting common problems in South Florida's demanding humidity environment.
 
 - **[Summer Indoor Air Quality Guide](docs/summer-indoor-air-quality-guide.md)** — A complete walkthrough of why IAQ drops during South Florida summers specifically: the interaction of humidity, closed-house conditions, continuous AC runtime, pollen, and VOCs. Includes a decision framework for identifying the right fix, a summer-specific maintenance calendar, and guidance on when professional help is needed.
 
