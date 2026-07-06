@@ -12,6 +12,16 @@ python3 tools/savings-calculator.py
 
 This interactive tool estimates annual and long-term savings based on your system age, current habits, and local South Florida energy costs. [Try it now](tools/savings-calculator.py) — no dependencies needed.
 
+## Interactive Maintenance Scheduler
+
+Get a personalized year-round maintenance plan based on your system type, age, location, and last service dates:
+
+```bash
+python3 tools/maintenance-scheduler.py
+```
+
+The [maintenance scheduler](tools/maintenance-scheduler.py) generates a month-by-month calendar, priority action summary, and personalized tips for South Florida homeowners. Enter details about your system once and get a printable annual plan.
+
 ## Why Maintenance Matters
 
 - **Energy Savings**: A well-maintained system uses 15-25% less energy
@@ -127,6 +137,12 @@ About to swap out your old thermostat? Before you pull that faceplate, understan
 
 - **[Thermostat Wiring & Installation Basics](docs/thermostat-wiring-and-installation-basics.md)** — Complete wire color reference for South Florida systems (heat pump, straight cool, two-stage), step-by-step installation instructions, C-wire solutions, communicating system gotchas, and troubleshooting common installation issues. Written for homeowners who want to get it right the first time.
 - **[Smart Thermostat Installation Compatibility Guide](docs/smart-thermostat-installation-compatibility.md)** — Compatibility checks (system type, C-wire, voltage), wiring diagrams with South Florida-specific gotchas (salt-air corrosion, 4-conductor wire, heat pump reversing valves), coastal installation considerations, and when a professional [thermostat installation service](https://ac-repair.today/services/thermostat-installation/) is the smarter choice.
+
+## Smart HVAC Monitoring & IoT
+
+Modern sensor technology lets you monitor your AC's health from your phone — catching problems like dirty filters, failing capacitors, and refrigerant leaks days or weeks before they cause a breakdown. For South Florida homes running AC 8-10 months a year, this can prevent most emergency repairs.
+
+- **[Smart HVAC Monitoring & IoT Guide](docs/smart-hvac-monitoring-iot.md)** — What to monitor (temperature differential, runtime cycles, humidity, energy consumption), budget-to-enthusiast equipment recommendations ($0-500), critical vs. warning alert thresholds, and what to do when monitoring detects a problem. Covers why temperature differential trending is the single most powerful diagnostic you can do without a technician, how to set up push alerts, and which $15 sensor can save you from a $5,000 compressor replacement.
 
 ## Outdoor Spaces & Special Structures
 
