@@ -206,6 +206,7 @@ June marks the start of Atlantic hurricane season, and your AC system is one of 
 
 - **[Post-Hurricane AC Recovery Guide](docs/post-hurricane-recovery.md)** — The systematic restart sequence after a storm, generator compatibility, flood damage warning signs, and a preparation checklist for next season. Essential reading for every South Florida homeowner.
 - **[Post-Hurricane Indoor Air Quality Guide](docs/post-hurricane-iaq-guide.md)** — The quiet threat after every storm: how elevated humidity, mold growth in water-damaged materials, and demolition particulates degrade your indoor air. Practical steps for drying, filtration, and knowing when to call a pro for [duct cleaning and IAQ assessment](https://ac-repair.today/services/duct-cleaning/).
+- **[Wind-Driven Rain Protection for Outdoor AC Units](docs/wind-driven-rain-protection.md)** — How horizontal rain during storms infiltrates condensers, accelerates corrosion, and shorts equipment life. Covers enclosure options that don't block airflow, coastal-zone hardening tiers from shoreline to inland, the condensate drain connection after heavy weather, and post-storm signage that tells you whether [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) is needed. Includes a hurricane-watch-to-post-storm preparation sequence specific to South Florida.
 
 For storm-related [emergency AC repair in South Florida](https://ac-repair.today/services/emergency-ac-repair/), our team provides same-day service after major weather events.
 
@@ -230,6 +231,8 @@ For a professional indoor-air-quality assessment, lamp replacement, and coil cle
 Your air handler — the indoor unit containing the evaporator coil, blower, and drain pan — runs every time your AC does. In South Florida's humid climate, it works harder than in any other region, making regular attention essential for reliable cooling.
 
 - **[Indoor Air Handler Maintenance Guide](docs/air-handler-maintenance.md)** — What's inside your air handler (evaporator coil, blower motor, condensate drain pan, emergency float switch), the monthly maintenance checklist that prevents the most common emergency calls, how to spot the warning signs of a failing air handler before it leaves you without AC, and when a professional inspection is the right move. Essential reading before summer hits.
+
+- **[Attic Air Handler Maintenance in South Florida](docs/attic-ac-unit-maintenance.md)** — The unique failure modes of attic-mounted equipment in our climate: heat-shortened capacitor life, rusted secondary drain pans that silently drip through ceilings, insulation-gasket leaks around blower-access doors, and the single cheapest $60 insurance device every attic system should have. Covers the annual attic checklist, warning signs (whistling, ceiling stains, musty smells below the unit), and when a float-switch install is better than a drywall repair.
 
 For professional [AC maintenance](https://ac-repair.today/services/ac-maintenance/) that includes a full air handler inspection — blower evaluation, drain line clearing, coil check, and safety controls verification — our licensed technicians serve all of South Florida.
 
