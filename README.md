@@ -186,6 +186,14 @@ South Florida's thunderstorm season means every AC system is at risk from voltag
 
 For professional diagnosis and [AC repair](https://ac-repair.today/services/ac-repair/) after storm damage, our licensed technicians serve all of South Florida.
 
+## AC Running Non-Stop — Why It Happens
+
+If your AC runs for hours without shutting off (especially during South Florida's 95°F+ summer afternoons), it's either working as designed or signaling a problem. The line between normal and "needs repair" depends on runtime length, temperature differential, and whether it ever cycles off.
+
+- **[Why Your AC Runs Non-Stop in Summer](docs/ac-running-nonstop-summer-causes.md)** — The 7 root causes ranked by likelihood: undersized systems, dirty filters, low refrigerant, dirty evaporator coils, thermostat issues, return air restrictions, and leaky ductwork. Includes a diagnostic decision table for DIY vs calling a pro, a runtime measurement protocol homeowners can use, and South Florida-specific guidance for each issue. Covers the critical difference between peak-day extended cycles and a system that genuinely won't satisfy the thermostat.
+
+For immediate service when your AC won't stop running — or any [emergency AC repair in Miami](https://ac-repair.today/services/emergency-ac-repair/) — our technicians are on call 24/7 across all of South Florida.
+
 ## Electrical Contactors & Starting Components
 
 The electrical contactor and run/start capacitors are the most common point of failure in South Florida AC systems — the combination of heat, humidity, and salt air accelerates corrosion and pitting on these components faster than in any other climate in the country. An annual inspection can prevent the most common "AC won't start" emergency.
