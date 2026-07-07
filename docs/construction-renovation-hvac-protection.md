@@ -12,7 +12,7 @@ Your air conditioner moves large volumes of air through your home. During renova
 
 The result? A system that runs normally during the day but fails three weeks later — caught by South Florida's punishing humidity and 90°F+ heat.
 
-> A full system cleaning after a major renovation typically costs $400–800. That is cheaper than replacing a compressor destroyed by drywall dust contamination, but it is entirely avoidable with proper planning. For professional [AC maintenance](https://ac-repair.today/services/ac-maintenance/) after construction, our technicians can assess and restore your system.
+> A full system cleaning after a major renovation typically costs $400–800. That is cheaper than replacing a compressor destroyed by drywall dust contamination, but it is entirely avoidable with proper planning. For professional AC maintenance after construction, see [AC Repair Today](https://ac-repair.today/services/ac-maintenance/).
 
 ## Before Construction Starts
 
@@ -47,8 +47,8 @@ If the renovation involves framing, electrical, or plumbing work, walk the plans
 
 | Scenario | Recommended Setting |
 |----------|-------------------|
-| Heavy dust generation (sand, demo, drywall) | **System OFF** or Fan = OFF at the thermostat |
-| Light work (painting, trim, flooring) | Fan = ON (continuous) with a MERV-8 filter changed every 3–4 days |
+| Heavy dust generation (sand, demo, drywall) | System OFF or Fan = OFF at the thermostat |
+| Light work (painting, trim, flooring) | Fan = ON (continuous) with MERV-8 filter changed every 3–4 days |
 | No work happening (evenings, weekends) | Run normally, then change filter when work resumes |
 
 During heavy dust periods, the AC fan should be turned completely off. Running it will pull fine silica and gypsum dust through the system regardless of filter quality.
@@ -66,48 +66,36 @@ Outdoor condenser coils act as vacuum cleaners for construction debris. If concr
 - Check for fine dust accumulation visible on fin surfaces
 - Do not use a pressure washer — it bends the fins
 
-> A clogged condenser coil causes high head pressure and compressor overheating. If your system struggles after a renovation, an [AC inspection](https://ac-repair.today/services/ac-maintenance/) will identify coil contamination, refrigerant issues, and blower performance — before a small problem becomes a compressor replacement.
+> A clogged condenser coil causes high head pressure and compressor overheating. If your system struggles after a renovation, an AC inspection from [AC Repair Today](https://ac-repair.today/services/ac-maintenance/) will identify coil contamination, refrigerant issues, and blower performance.
 
 ## After Construction — System Restoration
 
-Once the work is complete and the dust has settled (literally — wait at least 24 hours after the last sanding or dusty work):
+Once the work is complete and the dust has settled (wait at least 24 hours after the last sanding or dusty work):
 
 ### Step 1: Pre-Filter Flush
-
-Run the fan-only mode for 2–4 hours with a new MERV-8 filter. This circulates residual airborne dust through the filter before loading the evaporator coil.
+Run fan-only mode for 2–4 hours with a new MERV-8 filter. This circulates residual airborne dust through the filter before loading the evaporator coil.
 
 ### Step 2: Change Filter Again
-
-After the flush period, install a fresh filter. The flush filter should be discarded even if it looks clean — microscopic particles have embedded in its depth.
+After the flush period, install a fresh filter. The flush filter should be discarded even if it looks clean.
 
 ### Step 3: Inspect the Evaporator Coil
-
-Remove the air handler access panel and visually inspect the coil face. If you see a gray or white dust coating on the fins, professional cleaning is needed. Coil cleaning is not a DIY job — improper cleaning (harsh chemicals, high pressure) can damage the coil fins and refrigerant tubing.
+Remove the air handler access panel and visually inspect the coil face. If you see a gray or white dust coating on the fins, professional cleaning is needed.
 
 ### Step 4: Check the Blower Wheel
-
-Remove the blower compartment door and shine a light on the squirrel-cage wheel. If you see an even layer of dust or debris on the blades — which is common after renovation projects — the wheel will need professional cleaning to restore airflow. A dust-caked blower wheel can reduce airflow by 20–30%.
+Remove the blower compartment door and shine a light on the squirrel-cage wheel. If you see an even layer of dust or debris on the blades, the wheel will need professional cleaning. A dust-caked blower wheel reduces airflow by 20–30%.
 
 ### Step 5: Verify System Performance
-
-- Measure temperature split at the supply vent nearest the air handler: subtract return temperature from supply temperature. A healthy system reads 16–22°F split in cooling mode.
-- Check that all rooms reach their target temperature within a reasonable cycle.
-- Note any new noises — debris caught in the blower housing or condenser fan can make subtle sounds that signal contamination.
+- Measure temperature split at the supply vent: subtract return temp from supply temp. Healthy = 16–22°F split in cooling mode.
+- Check that all rooms reach target temperature.
+- Note any new noises — debris caught in the housing can make subtle sounds.
 
 ## When to Call a Professional
 
-Schedule a professional [AC maintenance visit](https://ac-repair.today/services/ac-maintenance/) after any major renovation — even if the system appears to run fine. Construction dust causes cumulative damage that often does not show up for 30–90 days. A post-renovation checkup typically includes:
+Schedule a professional AC maintenance visit after any major renovation — even if the system appears to run fine. Construction dust causes cumulative damage that often does not show up for 30–90 days. [AC Repair Today](https://ac-repair.today/services/ac-maintenance/) provides post-renovation checkups including evaporator coil inspection, blower wheel cleaning, condenser coil rinse, temperature split verification, ductwork sealing checks, and drain line flushing.
 
-- Evaporator coil inspection and cleaning if needed
-- Blower wheel cleaning
-- Condenser coil rinse and fin straightening
-- Temperature split and superheat/subcooling verification
-- Ductwork sealing check (especially near renovation areas)
-- Drain line flush (construction debris commonly clogs drains)
+In South Florida, renovation dust sitting in a system followed by full humidity load creates ideal conditions for mold growth in ductwork. Schedule [duct cleaning and inspection](https://ac-repair.today/services/duct-cleaning/) to ensure no microbial growth has taken hold.
 
-In South Florida, the combination of renovation dust sitting in a system for weeks followed by full humidity load at the start of summer creates ideal conditions for mold growth in ductwork. If your renovation completed near the start of cooling season, schedule a [duct cleaning and inspection](https://ac-repair.today/services/duct-cleaning/) to ensure no microbial growth has taken hold before it affects your indoor air quality.
-
-> **Contractor liability note**: In Florida, if a contractor's work causes damage to your HVAC system, their liability insurance may cover repairs. Document the state of your system before and after renovation with dated photos, and keep receipts for all filter changes during construction. This documentation helps if you need to file a claim.
+> **Contractor liability note**: In Florida, if a contractor's work causes damage to your HVAC system, their liability insurance may cover repairs. Document the state of your system before and after renovation with dated photos.
 
 ## Summary Checklist
 
