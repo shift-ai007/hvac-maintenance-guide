@@ -298,6 +298,12 @@ South Florida's severe thunderstorm and hurricane season brings frequent power o
 
 - **[Summer Power Outage AC Protection Guide](docs/summer-power-outage-ac-protection.md)** — What happens to your AC when the power goes out (voltage spikes on restore, short cycling from unequalized refrigerant pressures, brownout compressor overheating), the $200–400 whole-home surge protector fix that prevents most post-storm failures, the critical 5-minute wait rule before restarting your system, a symptom-to-likely-cause table for post-outage AC problems, and when "it was working fine before the storm" means an [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) is needed.
 
+## Summer Vacation AC Settings for Florida Homeowners
+
+Planning a trip during South Florida's sweltering summer? What you do with your thermostat before you leave determines whether you come home to comfortable air conditioning — or a mold-infested, humidity-damaged disaster. Turning the AC completely OFF may save $40 in electricity, but it can cost thousands in remediation when indoor humidity hits 80%+ within 24 hours in our climate.
+
+- **[Summer Vacation AC Settings for Florida Homeowners](docs/summer-vacation-ac-settings-florida.md)** — The 80–82°F sweet spot that balances energy savings with mold prevention, why Fan AUTO (not ON) is critical for moisture control in an unoccupied home, smart thermostat vacation mode features that alert you if the AC fails mid-trip, a complete pre-departure and post-return checklist tailored to South Florida, what happens when a thunderstorm knocks out power while you're away, and why an [AC maintenance checkup](https://ac-repair.today/services/ac-maintenance/) before vacation can prevent mid-trip failures.
+
 ## Humidity Setpoint Optimization
 
 Most South Florida homeowners think about temperature when setting their thermostat, but humidity is the more important variable for comfort and efficiency from June through September.
