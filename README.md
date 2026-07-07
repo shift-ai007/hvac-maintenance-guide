@@ -334,6 +334,20 @@ Understanding your AC warranty can save you thousands — but Florida's coastal 
 
 - **[AC Warranty Guide for Florida](docs/ac-warranty-guide-florida.md)** — The full breakdown of manufacturer equipment warranties, installer labor warranties, and extended service plans; how coastal corrosion voids coverage and what to do about it; registration deadlines for every major brand; the maintenance documentation you need to keep claims valid; and a decision framework for when to file a warranty claim versus when to replace. Includes practical tips on transferring warranties when buying a home.
 
+## Special Situations
+
+### Home Renovation & Construction HVAC Protection
+
+If you are renovating your South Florida home, your AC system is at risk from drywall dust, sawdust, and construction debris. A few basic precautions can prevent costly damage that often does not show up until weeks after the contractors leave.
+
+- **[Construction & Renovation HVAC Protection Guide](docs/construction-renovation-hvac-protection.md)** — How to protect your system before, during, and after construction: sealing registers during dusty work, the aggressive filter-change schedule (every 3–4 days) during active renovation, the post-project restoration sequence (filter flush, coil inspection, blower wheel check, performance verification), and when a professional [AC maintenance visit](https://ac-repair.today/services/ac-maintenance/) after construction is the smartest investment you can make. Includes a complete pre-renovation checklist and contractor liability documentation guidance for Florida homeowners.
+
+### Vacation Home & Seasonal AC Management
+
+South Florida's snowbird and seasonal property owners face unique AC challenges: a system that sits idle for months in the region's punishing humidity can develop mold, drain clogs, and compressor damage — while one that is left at the wrong temperature setting can cost thousands in restoration.
+
+- **[Seasonal & Vacation Home AC Management Guide](docs/vacation-home-snowbird-ac-care.md)** — The correct thermostat settings for short absences (1–7 days) versus long seasonal closures (3+ months), why the "85°F rule" creates mold risk in South Florida, the pre-departure checklist (filter, drain flush, float switch test, outdoor clearance, disconnect considerations), the gradual pull-down procedure when returning, and what to do if the system fails while you are away. Covers rental property between-tenant maintenance and hurricane-season considerations for seasonal homeowners.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
