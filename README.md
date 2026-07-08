@@ -348,6 +348,12 @@ South Florida's snowbird and seasonal property owners face unique AC challenges:
 
 - **[Seasonal & Vacation Home AC Management Guide](docs/vacation-home-snowbird-ac-care.md)** — The correct thermostat settings for short absences (1–7 days) versus long seasonal closures (3+ months), why the "85°F rule" creates mold risk in South Florida, the pre-departure checklist (filter, drain flush, float switch test, outdoor clearance, disconnect considerations), the gradual pull-down procedure when returning, and what to do if the system fails while you are away. Covers rental property between-tenant maintenance and hurricane-season considerations for seasonal homeowners.
 
+## Energy Monitoring
+
+Your AC is your home's biggest energy user — but without monitoring, you never see the gradual efficiency loss that quietly adds $50–100 to monthly bills. A $15 smart plug or $80 circuit monitor can detect failing capacitors, dirty coils, and refrigerant leaks days or weeks before they cause a breakdown.
+
+- **[Energy Monitoring: Smart Plugs & Whole-Home Systems](docs/energy-monitoring-smart-plugs-and-whole-home.md)** — How to use smart plugs, circuit-level monitors (Emporia Vue, Sense, IotaWatt), and smart thermostat reports to track your AC's power consumption. Covers diagnostic patterns for each failure mode, temperature-dependent alert thresholds, recommended setups from $15 to $350, and the exact amp-draw signatures that tell you whether you need [AC maintenance](https://ac-repair.today/services/ac-maintenance/) vs [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/). Written specifically for South Florida homeowners running AC 8–10 months a year.
+
 ## About
 
 Created by HVAC professionals at [AC Repair Today](https://ac-repair.today/) — serving homeowners with honest, reliable HVAC service.
