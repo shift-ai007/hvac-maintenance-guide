@@ -348,6 +348,12 @@ South Florida's snowbird and seasonal property owners face unique AC challenges:
 
 - **[Seasonal & Vacation Home AC Management Guide](docs/vacation-home-snowbird-ac-care.md)** — The correct thermostat settings for short absences (1–7 days) versus long seasonal closures (3+ months), why the "85°F rule" creates mold risk in South Florida, the pre-departure checklist (filter, drain flush, float switch test, outdoor clearance, disconnect considerations), the gradual pull-down procedure when returning, and what to do if the system fails while you are away. Covers rental property between-tenant maintenance and hurricane-season considerations for seasonal homeowners.
 
+## Home Buyer & New Homeowner Guides
+
+If you're buying a home in South Florida or just moved into a new construction house, the AC system can hide expensive surprises.
+
+- **[Home Buyer's AC Inspection Checklist](docs/home-buyer-ac-inspection-checklist.md)** — What every South Florida home buyer needs to check before closing: permit history verification, condenser coil condition beyond a surface look, the 20-minute runtime test that reveals hidden problems, the 10 questions to ask the seller, and when to make an offer contingent on a professional evaluation. Includes a Python delta-T calculator and red-flag thresholds for every major AC component. Licensed [AC inspections](https://ac-repair.today/services/ac-repair/) available in Miami-Dade, Broward, and Palm Beach.
+
 ## Energy Monitoring
 
 Your AC is your home's biggest energy user — but without monitoring, you never see the gradual efficiency loss that quietly adds $50–100 to monthly bills. A $15 smart plug or $80 circuit monitor can detect failing capacitors, dirty coils, and refrigerant leaks days or weeks before they cause a breakdown.
