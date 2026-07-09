@@ -22,6 +22,19 @@ python3 tools/maintenance-scheduler.py
 
 The [maintenance scheduler](tools/maintenance-scheduler.py) generates a month-by-month calendar, priority action summary, and personalized tips for South Florida homeowners. Enter details about your system once and get a printable annual plan.
 
+## AC Filter Tracker
+
+Keep track of filter replacements across all your AC units:
+
+```bash
+python3 tools/filter-tracker.py           # Interactive mode
+python3 tools/filter-tracker.py --status  # Quick status check
+```
+
+The [filter tracker](tools/filter-tracker.py) records every filter change, alerts you when replacements are due, maintains your filter sizes and MERV ratings, and tracks history. No dependencies — just Python 3.6+. Covers the MERV rating spectrum so you know exactly what to buy.
+
+📖 New to filter selection? Read our **[complete AC filter buying guide](docs/ac-filter-guide.md)** — covers MERV ratings for South Florida homes, replacement schedules, where to buy, and the five costly mistakes to avoid.
+
 ## Why Maintenance Matters
 
 - **Energy Savings**: A well-maintained system uses 15-25% less energy
@@ -233,6 +246,12 @@ June marks the start of Atlantic hurricane season, and your AC system is one of 
 - **[Wind-Driven Rain Protection for Outdoor AC Units](docs/wind-driven-rain-protection.md)** — How horizontal rain during storms infiltrates condensers, accelerates corrosion, and shorts equipment life. Covers enclosure options that don't block airflow, coastal-zone hardening tiers from shoreline to inland, the condensate drain connection after heavy weather, and post-storm signage that tells you whether [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) is needed. Includes a hurricane-watch-to-post-storm preparation sequence specific to South Florida.
 
 For storm-related [emergency AC repair in South Florida](https://ac-repair.today/services/emergency-ac-repair/), our team provides same-day service after major weather events.
+
+## AC Condensate Water Reuse
+
+Your AC doesn't just cool your home — it pulls 10–20 gallons of nearly distilled water from the air every day during South Florida's humid summer months. Most homes simply dump this valuable resource down the drain. Learn how to capture and reuse it for irrigation and outdoor use, saving $50–150 per year on water bills while reducing stormwater runoff.
+
+- **[AC Condensate Water Reuse Guide](docs/ac-condensate-water-reuse-guide.md)** — How much condensate your AC produces by system size (5–30 gal/day depending on tonnage), collection methods from a $30 barrel setup to a full greywater integration, what you can and cannot safely use condensate for, mosquito management requirements (critical for South Florida), seasonal production patterns (wet vs dry season), and when to have a [professional AC maintenance technician](https://ac-repair.today/services/ac-maintenance/) modify your drain line for safe collection. Includes a common problems troubleshooting table and code considerations for Florida homeowners.
 
 ## Ductless Mini-Split Maintenance
 
