@@ -120,6 +120,7 @@ Your evaporator and condenser coils are the heart of your AC system. When they'r
 
 - [Evaporator Coil Cleaning Guide](docs/evaporator-coil-cleaning.md) — How and when to clean the indoor coil, what to avoid, and when to call a pro. Essential reading for South Florida homeowners.
 - [Dirty Sock Syndrome](docs/dirty-sock-syndrome.md) — That musty smell from your vents has a name. Learn what causes it, which fixes actually work, and why bleach makes it worse.
+- [AC Odors: Complete Diagnosis Guide](docs/ac-odor-diagnosis-guide.md) — What that smell from your vents really means. Covers musty, burning, chemical, rotten egg, fish odor, and 6 other smells with urgency ratings and actionable steps for South Florida homeowners.
 - [Condensate Drain Maintenance](docs/condensate-drain-maintenance.md) — The single most common AC service call in South Florida, explained. A $3 vinegar flush every 3 months can save you from a flooded ceiling.
 
 ## Summer Peak Load Management
